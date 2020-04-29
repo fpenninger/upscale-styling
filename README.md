@@ -1,1 +1,1 @@
-# upscale-styling
+# Florians Upscale Styling Extension 
